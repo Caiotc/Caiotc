@@ -1,6 +1,6 @@
 ### ✋Hey there! Welcome to my github, I'm Caio Theodoro de Carvalho✋
 
-- 💻 Nowadays I work as a Back-Developer with the stack: Dotnet Framework,Postgres(Postgis), HTML,CSS e JS
+- 💻 Nowadays I work as a Back-Developer with the stack: Dotnet Framework,Postgres(Postgis), HTML,CSS and JS
 - 📚 Studying hard Node,React and ReactNative
 
  <div>
