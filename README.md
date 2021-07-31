@@ -1,8 +1,8 @@
-### Ola! Eu sou o Caio Theodoro
+### ✋Hey there! Welcome to my github, I'm Caio Theodoro de Carvalho✋
 
-- Hoje eu trabalho com back-end
-- Estudando node,react e reactNative
-- Pronouns : Ele/dele
+- 💻 Nowadays I work as a Back-Developer with the stack: Dotnet Framework,Postgres(Postgis), HTML,CSS e JS
+- 📚 Hardwork studying Node,React and ReactNative
+
  <div>
   <a href="https://github.com/Caiotc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiotc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
