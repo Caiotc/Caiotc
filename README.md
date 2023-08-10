@@ -1,7 +1,10 @@
-### ✋Hey there! Welcome to my github, I'm Caio Theodoro de Carvalho✋
+# Hello, my name is Caio
 
-- 💻 Nowadays I work as a FrontEnd-Developer with React
-- 📚 Studying hard Node,React and ReactNative
+- 💻 Software engineer, front end especialist
+- 📚 Actual major interests are:
+- microfrontends
+- design systems
+- UI testing
 
   
  <div style="display: inline_block"><br>
