@@ -1,6 +1,6 @@
 # Hello, my name is Caio
 
-- 💻 Software engineer, front end especialist
+- 💻 Software engineer, fullstack and React/.Net specialist.
 - 📚 Actual major interests are:
 - microfrontends
 - design systems
